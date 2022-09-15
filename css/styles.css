@@ -1,0 +1,16 @@
+.divider:after,.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+.card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.rounded-5 {
+    border-radius: 1rem;
+}
